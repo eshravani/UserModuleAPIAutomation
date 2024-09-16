@@ -1,0 +1,7 @@
+api\endpoints\ResourcesEndPoints.class
+api\utilities\ExtentReportManager.class
+api\payloads\User.class
+api\endpoints\BaseUris.class
+api\tests\UserTests.class
+api\endpoints\Resources.class
+api\tests\UserModuleTests.class

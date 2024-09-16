@@ -1,0 +1,58 @@
+13:59:43.786 [main] INFO  api.tests.UserTests - ************* Creating User **********************
+13:59:46.757 [main] INFO  api.tests.UserTests - ************* User is created *******************
+13:59:46.789 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+13:59:47.147 [main] INFO  api.tests.UserTests - ******************* User details are retrieved ********************
+13:59:47.151 [main] INFO  api.tests.UserTests - ******************* Updating user details********************
+13:59:47.531 [main] INFO  api.tests.UserTests - ******************* Updated user details********************barbar.wolf
+13:59:47.536 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+13:59:47.867 [main] INFO  api.tests.UserTests - ******************* Deleted user ********************barbar.wolf
+16:29:20.140 [main] INFO  api.tests.UserModuleTests - ************* Creating User **********************
+16:29:20.977 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:29:20.985 [main] INFO  api.tests.UserModuleTests - ******************* Updating user details********************
+16:29:20.992 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:30:34.814 [main] INFO  api.tests.UserModuleTests - ************* Creating User **********************
+16:30:36.997 [main] INFO  api.tests.UserModuleTests - ************* User is created *******************
+16:30:37.000 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:30:37.329 [main] INFO  api.tests.UserModuleTests - ******************* User details are retrieved ********************
+16:30:37.332 [main] INFO  api.tests.UserModuleTests - ******************* Updating user details********************
+16:30:37.677 [main] INFO  api.tests.UserModuleTests - ******************* Updated user details********************kristan.harber
+16:30:37.679 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:31:11.847 [main] INFO  api.tests.UserModuleTests - ************* Creating User **********************
+16:31:14.009 [main] INFO  api.tests.UserModuleTests - ************* User is created *******************
+16:31:14.012 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:31:14.352 [main] INFO  api.tests.UserModuleTests - ******************* User details are retrieved ********************
+16:31:14.354 [main] INFO  api.tests.UserModuleTests - ******************* Updating user details********************
+16:31:14.714 [main] INFO  api.tests.UserModuleTests - ******************* Updated user details********************melaine.waelchi
+16:31:14.716 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:52:24.585 [main] INFO  api.tests.UserModuleTests - ************* Creating User **********************
+16:52:26.837 [main] INFO  api.tests.UserModuleTests - ************* User is created *******************
+16:52:26.840 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:52:27.204 [main] INFO  api.tests.UserModuleTests - ******************* User details are retrieved ********************
+16:52:27.206 [main] INFO  api.tests.UserModuleTests - ******************* Updating user details********************
+16:52:27.545 [main] INFO  api.tests.UserModuleTests - ******************* Updated user details********************sidney.kulas
+16:52:27.548 [main] INFO  api.tests.UserModuleTests - ******************* Retrieving user details********************
+16:52:27.924 [main] INFO  api.tests.UserModuleTests - ******************* Deleted user ********************sidney.kulas
+17:25:16.919 [main] INFO  api.tests.UserTests - ************* Creating User **********************
+17:25:19.352 [main] INFO  api.tests.UserTests - ************* User is created *******************
+17:25:19.364 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:25:19.706 [main] INFO  api.tests.UserTests - ******************* User details are retrieved ********************
+17:25:19.707 [main] INFO  api.tests.UserTests - ******************* Updating user details********************
+17:25:20.043 [main] INFO  api.tests.UserTests - ******************* Updated user details********************ryan.walsh
+17:25:20.046 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:25:20.391 [main] INFO  api.tests.UserTests - ******************* Deleted user ********************ryan.walsh
+17:26:16.725 [main] INFO  api.tests.UserTests - ************* Creating User **********************
+17:26:18.690 [main] INFO  api.tests.UserTests - ************* User is created *******************
+17:26:18.702 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:26:19.034 [main] INFO  api.tests.UserTests - ******************* User details are retrieved ********************
+17:26:19.037 [main] INFO  api.tests.UserTests - ******************* Updating user details********************
+17:26:19.391 [main] INFO  api.tests.UserTests - ******************* Updated user details********************damion.krajcik
+17:26:19.394 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:26:19.732 [main] INFO  api.tests.UserTests - ******************* Deleted user ********************damion.krajcik
+17:27:14.857 [main] INFO  api.tests.UserTests - ************* Creating User **********************
+17:27:17.064 [main] INFO  api.tests.UserTests - ************* User is created *******************
+17:27:17.075 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:27:17.421 [main] INFO  api.tests.UserTests - ******************* User details are retrieved ********************
+17:27:17.424 [main] INFO  api.tests.UserTests - ******************* Updating user details********************
+17:27:17.773 [main] INFO  api.tests.UserTests - ******************* Updated user details********************charley.rippin
+17:27:17.776 [main] INFO  api.tests.UserTests - ******************* Retrieving user details********************
+17:27:18.120 [main] INFO  api.tests.UserTests - ******************* Deleted user ********************charley.rippin
