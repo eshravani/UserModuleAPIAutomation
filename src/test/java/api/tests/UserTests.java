@@ -54,7 +54,6 @@ public class UserTests {
         Response res= Resources.getUser(this.userPayload.getUsername());
         res.then().log().all();
         Assert.assertEquals(res.getStatusCode(),200);
-
         logger.info("******************* User details are retrieved ********************");
 
     }
